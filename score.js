@@ -13,3 +13,7 @@ console.log(typeof stringnumber);
 
 console.log(2+2)
 console.log(4-2)
+console.log(2*6)
+console.log(2**5)
+console.log(2/10)
+console.log(2%3)
